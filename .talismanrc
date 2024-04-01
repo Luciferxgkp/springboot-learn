@@ -1,4 +1,7 @@
 fileignoreconfig:
 - filename: src/main/java/com/thoughtworks/springrest/service/JobService.java
   checksum: 33c6445a2ba5be3f8388a9ab0ccbcbe1c36122eb90fb283ecc5435bc3deee363
+- filename: src/main/java/com/thoughtworks/springrest/service/UserService.java
+  checksum: b00186ac6e646ba2dd07c637c3bde997fe0183507c1d10fc398a503f9e3c6982
+
 version: ""
